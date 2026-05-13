@@ -115,7 +115,7 @@ These include:
 
 ---
 
-## 🌐 Live Project Walkthrough
+## Live Project Walkthrough
 
 Architecture Overview:
 https://oowusu.com/cloud-policy-compliance-dashboard.html
@@ -131,7 +131,7 @@ Infrastructure was deployed using **Bicep modules** to enable consistent and rep
 
 ---
 
-## earning Outcomes
+## Learning Outcomes
 
 * Azure governance implementation
 * Policy-based remediation workflows
