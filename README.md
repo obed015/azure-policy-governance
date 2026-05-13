@@ -97,7 +97,7 @@ Azure Monitor Alerts detect policy violations and trigger administrative notific
 
 ---
 
-## 📷 Deployment Evidence
+## Deployment Evidence
 
 Deployment screenshots are stored in:
 
